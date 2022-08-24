@@ -6,24 +6,24 @@ A text Input bar is created which asks user to input the movie name and recommen
 
 The Data Set used is a small datset for refernce that containes approximately 5000 movie names
 
-# Software Used
+## Software Used
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Excel (CSV)
+* Excel (CSV)
 
-# Libraries
+## Libraries
 
-numpy
+* numpy
 
-pandas
+* pandas
 
-difflib
+* difflib
 
-TfidfVector
+* TfidfVector
 
-Cosine Similarity
+* Cosine Similarity
 
-# Author
+## Author
 
 Aarsh Vyas 
