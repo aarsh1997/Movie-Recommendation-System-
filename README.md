@@ -6,7 +6,7 @@ A text Input bar is created which asks user to input the movie name and recommen
 
 The Data Set used is a small datset for refernce that containes approximately 5000 movie names
 
-## Software Used
+## Softwares Used
 
 * Jupyter Notebook
 
